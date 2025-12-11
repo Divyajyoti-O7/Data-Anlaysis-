@@ -20,7 +20,7 @@ This project walks through **multiple levels (Level 1 → Level 3)** to progress
 
 ## :file_folder: Project Structure
 
-    📦 Cuisine-Restaurant-Sentiment-Analysis
+    📦 Sentiment-Analysis
     │
     ├── Dataset.csv # Raw dataset of restaurant reviews
     │
