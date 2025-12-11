@@ -47,7 +47,7 @@ This project walks through **multiple levels (Level 1 → Level 3)** to progress
 
 ## :gear: Project Levels Breakdown
 
-### ** Level 1 — Data Exploration & Cleaning**
+###  Level 1 — Data Exploration & Cleaning
 - Load dataset  
 - Remove duplicates, handle missing values  
 - Text preprocessing:
@@ -58,7 +58,7 @@ This project walks through **multiple levels (Level 1 → Level 3)** to progress
 
 
 
-### ** Level 2 — Machine Learning-Based Sentiment Analysis**
+###  Level 2 — Machine Learning-Based Sentiment Analysis
 - Feature extraction:  
   - TF-IDF  
   - Bag-of-Words  
@@ -70,7 +70,7 @@ This project walks through **multiple levels (Level 1 → Level 3)** to progress
 
 
 
-### ** Level 3 — Advanced NLP & Visualization**
+###  Level 3 — Advanced NLP & Visualization
 - Apply deep learning or transformer-based approach (optional)  
 - Sentiment distribution by cuisine  
 - Word clouds for positive vs negative reviews  
@@ -105,7 +105,6 @@ This project walks through **multiple levels (Level 1 → Level 3)** to progress
 Contributions are welcome!  
 Feel free to submit issues or pull requests.
 
----
 
 ## :page_facing_up: License
 
