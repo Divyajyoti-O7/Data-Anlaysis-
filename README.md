@@ -1,4 +1,4 @@
-# :fork_and_knife: Sentiment & Geographical Analysis :speech_balloon:
+# Sentiment & Geographical Analysis :speech_balloon:
 
 This project focuses on performing **Sentiment Analysis** on restaurant reviews across multiple categories.  
 Using Natural Language Processing (NLP), the goal is to classify customer sentiment (Positive, Neutral, Negative) and extract insights that help to understand customer preferences and service quality across regions.
